@@ -17,6 +17,9 @@ mono_crash.*.json
 # VSCode-Specific ignores
 .vscode/
 
+# Rider
+.idea/
+
 # other
 build/
 builds/
